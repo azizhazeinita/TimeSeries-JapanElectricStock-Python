@@ -11,8 +11,10 @@ Japan Exchange Group, Inc. (JPX) is a holding company operating one of the large
   Tokyo Gas Stock (JPX)
     
     **Source:**
-    stock_prices.csv: https://drive.google.com/file/d/180kdkDgTpFjTTAX-ZiDRVkuo22nr5hg1/view?usp=sharing
-    initial source: https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data
+    
+    Stock_prices.csv: https://drive.google.com/file/d/180kdkDgTpFjTTAX-ZiDRVkuo22nr5hg1/view?usp=sharing
+    
+    Initial source: https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data
   
 2. External Data
   Japan Seasonally Adjusted Gross Domestic Product (GDP)
