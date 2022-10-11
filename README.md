@@ -24,7 +24,8 @@ Japan Exchange Group, Inc. (JPX) is a holding company operating one of the large
       6. Nikkei 225 index
    
    **Sources:**
-           FRED (https://fred.stlouisfed.org/) *via API
+   
+          FRED (https://fred.stlouisfed.org/) *via API
            Yahoo Finance (https://finance.yahoo.com/) *via API
            Ministry of Finance in Japan (https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm)
            Methods and Evaluation
