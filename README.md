@@ -11,8 +11,8 @@ Japan Exchange Group, Inc. (JPX) is a holding company operating one of the large
       1. Tokyo Gas Stock (JPX)
     
     **Source:**    
-          1. Stock_prices.csv: https://drive.google.com/file/d/180kdkDgTpFjTTAX-ZiDRVkuo22nr5hg1/view?usp=sharing
-          2. Initial source: https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data
+                1. Stock_prices.csv: https://drive.google.com/file/d/180kdkDgTpFjTTAX-ZiDRVkuo22nr5hg1/view?usp=sharing
+                2. Initial source: https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data
   
 2. External Data
       1. Japan Seasonally Adjusted Gross Domestic Product (GDP)
@@ -23,8 +23,8 @@ Japan Exchange Group, Inc. (JPX) is a holding company operating one of the large
       6. Nikkei 225 index
    
    **Sources:**
-          1. FRED (https://fred.stlouisfed.org/) *via API
-          2. Yahoo Finance (https://finance.yahoo.com/) *via API
-          3. Ministry of Finance in Japan (https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm)
-          4. Methods and Evaluation
-          5. Time series models using ARIMA, VAR, PROPHET, Long Short-Term Memory (LSTM) with evaluation metrics MAE, MSE, MAPE, sMAPE, MASE
+                1. FRED (https://fred.stlouisfed.org/) *via API
+                2. Yahoo Finance (https://finance.yahoo.com/) *via API
+                3. Ministry of Finance in Japan (https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm)
+                4. Methods and Evaluation
+                5. Time series models using ARIMA, VAR, PROPHET, Long Short-Term Memory (LSTM) with evaluation metrics MAE, MSE, MAPE, sMAPE, MASE
