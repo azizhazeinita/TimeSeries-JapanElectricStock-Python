@@ -4,7 +4,7 @@
 
 **Project Goal**
 
-Japan Exchange Group, Inc. (JPX) is a holding company operating one of the largest stock exchanges in the world, which one of it’s significant stocks is Tokyo Gas stock. This project will compare several models against real future returns& of Tokyo Gas stock after the training phase is complete. Other external datasets that are closely related to stock price, such as Japan GDP, Unemployment Rate, Oil Price, etc., will also involved in different combinations to find the best output.
+Japan Exchange Group, Inc. (JPX) is a holding company operating one of the largest stock exchanges in the world, which one of it’s significant stocks is **Tokyo Gas stock**. This project will compare several **time series models** against real future returns& of Tokyo Gas stock after the training phase is complete. Other **external datasets** that are closely related to stock price, such as **Japan GDP, Unemployment Rate, Oil Price, etc.**, will also involved in different combinations to find the best output.
 
 **Datasets**
 1. Stock Data
@@ -25,10 +25,10 @@ Japan Exchange Group, Inc. (JPX) is a holding company operating one of the large
    
    **Sources:**
    
-          **FRED** (https://fred.stlouisfed.org/) *via API
-          **Yahoo Finance** (https://finance.yahoo.com/) *via API
-          **Ministry of Finance in Japan** (https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm)
+          FRED (https://fred.stlouisfed.org/) *via API
+          Yahoo Finance (https://finance.yahoo.com/) *via API
+          Ministry of Finance in Japan (https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm)
           
 3. Methods and Evaluation
    
-   Time series models using ARIMA, VAR, PROPHET, Long Short-Term Memory (LSTM) with evaluation metrics MAE, MSE, MAPE, sMAPE, MASE
+   **Time series** models using **ARIMA, VAR, PROPHET, Long Short-Term Memory (LSTM)** with evaluation metrics **MAE, MSE, MAPE, sMAPE, MASE**
