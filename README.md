@@ -29,6 +29,6 @@ Japan Exchange Group, Inc. (JPX) is a holding company operating one of the large
           Yahoo Finance (https://finance.yahoo.com/) 
           Ministry of Finance in Japan (https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm)
           
-3. Methods and Evaluation
+**Methods and Evaluation**
    
    **Time series** models using **ARIMA, VAR, PROPHET, Long Short-Term Memory (LSTM)** with evaluation metrics **MAE, MSE, MAPE, sMAPE, MASE**
