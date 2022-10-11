@@ -31,4 +31,4 @@ Japan Exchange Group, Inc. (JPX) is a holding company operating one of the large
           
 **Methods and Evaluation**
    
-   **Time series** models using **ARIMA, VAR, PROPHET, Long Short-Term Memory (LSTM)** with evaluation metrics **MAE, MSE, MAPE, sMAPE, MASE**
+   **Time series** models comparison using **ARIMA, VAR, PROPHET, Long Short-Term Memory (LSTM)** with evaluation metrics **MAE, MSE, MAPE, sMAPE, MASE**
